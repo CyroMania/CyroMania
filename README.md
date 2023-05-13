@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my GitHub page for all of my associated projects.
+Most of my repositories are focussed on game projects and I hope to be releasing Pathogen Peril soon as a game in an Alpha-build.
+
 <!--
 **CyroMania/CyroMania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
